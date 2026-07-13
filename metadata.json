@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SIAGA CILIK",
+  "description": "Game Edukasi Siaga Bencana Interaktif untuk Ruang Kelas",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
